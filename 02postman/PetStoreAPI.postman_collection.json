@@ -16,7 +16,7 @@
 							"/**",
 							" * ",
 							" */ ",
-							"pm.test(\"Is valid response with json array in body\", function () {",
+							"pm.test(\"Is valid response with json arrayisin body\", function () {",
 							"    ",
 							"    // assert that the status code is 200",
 							"    pm.response.to.be.ok; // info, success, redirection, clientError,  serverError, are other variants",
